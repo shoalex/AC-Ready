@@ -8,6 +8,10 @@ The project Automat AC by taking info from user TAG, Bluetooch and Thermometer
 - Using RFID-RC522
 - Using DS18B20
 
+### Operation Video
+
+<a href="https://youtu.be/m8sq6sMtJRs"> Click Here</a>
+
 ### SRD
 
 <a href="https://drive.google.com/file/d/17LCe0ZBViBdYBx1dsYuvT0iAnWJGNQ0P/view?usp=sharing"> Click Here</a>
